@@ -16,6 +16,7 @@ public class HelloApplication extends Application {
         stage.setScene(scene);
         stage.show();
     }
+    //this is to show how to code with github
 
     public static void main(String[] args) {
         launch();
